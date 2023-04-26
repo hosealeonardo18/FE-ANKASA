@@ -5,9 +5,9 @@
 </div>
   <h3 align="center">Ankasa App</h3>
   <p align="center">
-    <a href="https://github.com/preedok/FE-ANKASA"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hosealeonardo18/FE-ANKASA"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://insancitaticket.vercel.app/">View Demo</a>
+    <a href="https://ankasa2023.vercel.app/">View Demo</a>
     ·
     <a href="https://clear-newt-getup.cyclic.app/">Api Demo</a>
   </p>
@@ -53,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/preedok/FE-ANKASA
+git clone https://github.com/hosealeonardo18/FE-ANKASA
 ```
 
 - Go To Folder Repo
@@ -160,11 +160,11 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Ankasa`](https://github.com/preedok/ankasa-backend)
+:rocket: [`Backend Ankasa`](https://github.com/hosealeonardo18/ankasa-backend)
 
-:rocket: [`Frontend Ankasa`](https://github.com/preedok/FE-ANKASA)
+:rocket: [`Frontend Ankasa`](https://github.com/hosealeonardo18/FE-ANKASA)
 
-:rocket: [`Demo Ankasa`](https://insancitaticket.vercel.app/)
+:rocket: [`Demo Ankasa`](https://ankasa2023.vercel.app/)
 
 <!-- Meet The Teams -->
 
@@ -221,4 +221,4 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Project Link: [https://github.com/preedok/FE-ANKASA](https://github.com/preedok/FE-ANKASA)
+Project Link: [https://github.com/hosealeonardo18/FE-ANKASA](https://github.com/hosealeonardo18/FE-ANKASA)
