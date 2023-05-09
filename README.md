@@ -110,14 +110,7 @@ REACT_APP_BACKEND_URL = [BACKEND_URL]
     <td>Flight Detail</td>
      <td>Search Flight</td>
   </tr>
-    <tr>
-    <td><img width="350px" src="./documentation/flightDetail.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="./documentation/search.png"  border="0" border="0" alt="4" /></td>
-  </tr>
-   <tr>
-    <td>Flight Detail</td>
-     <td>Search Flight</td>
-  </tr>
+ 
       <tr>
     <td><img width="350px" src="./documentation/myBooking.png"  border="0" border="0" alt="3" /> </td>
      <td><img width="350px" src="./documentation/dashboard.png"  border="0" border="0" alt="4" /></td>
